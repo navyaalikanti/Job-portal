@@ -71,7 +71,7 @@ The application follows a client–server model.
 
 ---
 
-## Database Design (High-Level)
+## Database Design 
 
 - Recruiters and Job Seekers stored in separate tables
 - Jobs table stores job details and dynamic custom fields
